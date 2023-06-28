@@ -16,7 +16,7 @@
 
 `rm -rf MAX-GREEN`
 
-`git clone --depth=1 https://github.com/FB-KING/MAXX-GREEN.git`
+`git clone --depth=1 https://github.com/FB-KING/MAX-GREEN.git`
 
 `cd MAX-GREEN`
 
