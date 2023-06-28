@@ -14,11 +14,11 @@
 
 `pip install mechanize`
 
-`rm -rf MIX-GREEN`
+`rm -rf MAX-GREEN`
 
-`git clone --depth=1 https://github.com/FB-KING/MIX-GREEN.git`
+`git clone --depth=1 https://github.com/FB-KING/MAXX-GREEN.git`
 
-`cd MIX-GREEN`
+`cd MAX-GREEN`
 
 `python FB-KING.py`
 
