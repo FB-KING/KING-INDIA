@@ -1,4 +1,4 @@
-##__MAX-GREEN EID SPECIAL COMMAND__
+##__MAX-GREEN RANDOM SPECIAL COMMAND__
 
 ##--------------------------------
 ## Run Command 
