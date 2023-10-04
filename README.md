@@ -1,4 +1,4 @@
-##__MAX-GREEN RANDOM SPECIAL COMMAND__
+##__KING-INDIA RANDOM SPECIAL COMMAND__
 
 ##--------------------------------
 ## Run Command 
@@ -6,19 +6,19 @@
 
 `pkg install git`
 
-`pip2 install requests`
-
-`pip2 install mechanize`
-
 `pip install requests`
+
+`pip install rich`
+
+`pip install bs4`
 
 `pip install mechanize`
 
-`rm -rf MAX-GREEN`
+`rm -rf KING-INDIA`
 
-`git clone --depth=1 https://github.com/FB-KING/MAX-GREEN.git`
+`git clone --depth=1 https://github.com/FB-KING/KING-INDIA.git`
 
-`cd MAX-GREEN`
+`cd KING-INDIA`
 
 `python FB-KING.py`
 
